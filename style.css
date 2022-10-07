@@ -21,6 +21,7 @@
 }
 .caixa2 p {
   padding: 0 20px;
+  margin-bottom: 0;
 }
 .caixa2 .ultimo {
   background: url(imagem/baixo2.png) no-repeat left bottom;
